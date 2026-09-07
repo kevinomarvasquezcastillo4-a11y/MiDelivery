@@ -1,4 +1,4 @@
-[index.html.php](https://github.com/user-attachments/files/31896270/index.html.php)
+[index.php](https://github.com/user-attachments/files/31896381/index.php)
 <?php
 /*
 ===========================================================
